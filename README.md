@@ -6,7 +6,7 @@ Additionally, it uses out of the box LLM Phi-4 for Disease classification based 
 Try it out (https://huggingface.co/spaces/tarunchander/DistillBert). The request to API can be sent through RequestURL.ipynb
 
 **# High Level Steps**
--	Experimented with a sample of 100 records on following models with same hyperparameters:
+-	Experimented with a sample of 100 records on following models with same hyperparameters: 
 o	Roberta:
 Epoch	Training Loss	Validation Loss	Accuracy	F1
 1	0.693200	0.689373	0.550000	0.354839
